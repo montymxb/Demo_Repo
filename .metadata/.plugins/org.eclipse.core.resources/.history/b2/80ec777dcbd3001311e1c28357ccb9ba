@@ -1,7 +1,5 @@
 package com.uphouseworks.demo;
 
-import java.util.Random;
-
 public class Main {
 
 	public static void main(String[] args) 
@@ -16,8 +14,6 @@ public class Main {
 	{
 		System.out.println("This is a NEW feature!");
 		System.out.println("Apparently someone is going to add something to this to make it a new feature??");
-		Random rand = new Random();
-	    System.out.println(rand.nextInt(100)+"<- wow, new feature");
 	}
 
 }
