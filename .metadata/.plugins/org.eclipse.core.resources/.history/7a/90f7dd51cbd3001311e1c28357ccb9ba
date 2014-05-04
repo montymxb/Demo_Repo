@@ -13,7 +13,6 @@ public class Main {
 	private static void newFeature()
 	{
 		System.out.println("This is a NEW feature!");
-		System.out.println("Apparently someone is going to add something to this to make it a new feature??");
 	}
 
 }
