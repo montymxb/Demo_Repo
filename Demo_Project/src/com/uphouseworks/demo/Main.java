@@ -15,7 +15,6 @@ public class Main {
 	private static void newFeature()
 	{
 		System.out.println("This is a NEW feature!");
-		System.out.println("Apparently someone is going to add something to this to make it a new feature??");
 		Random rand = new Random();
 	    System.out.println(rand.nextInt(100)+"<- wow, new feature");
 	}
